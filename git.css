@@ -5,3 +5,8 @@ h1 {
 p {
     font-size: 1rem;
 }
+
+span {
+    background-color: aquamarine;
+    text-decoration-color: coral
+}
